@@ -40,4 +40,5 @@
 <h3>🧩BAEKJOON🧩 </h3>
   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=lhs8701)](https://solved.ac/lhs8701)
+<img src="http://mazandi.herokuapp.com/api?handle=lhs8701&theme=warm"/>
 </div>
