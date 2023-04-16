@@ -34,8 +34,6 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=lhs8701&slug=Test용-Static-MockEntity를-사용하면서-느낀점&color=dark)](https://velog.io/@lhs8701/Test%EC%9A%A9-Static-MockEntity%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%A9%B4%EC%84%9C-%EB%8A%90%EB%82%80%EC%A0%90)
   
 
-
-  <br>
   <br>
   </div>
 
