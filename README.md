@@ -32,7 +32,7 @@
 <div align=center>
 
 ### 🐸Project🐸
-> #### **[💠GASOMANN - 절약챌린지 및 가치소비추천 어플리케이션](https://github.com/project-buildup)** (2023.03~)
+> #### **[💠GASOMANN - 절약챌린지 및 가치소비추천 어플리케이션](https://github.com/project-buildup)** (2022.11~)
 > 청년들의 소비 권익 향상을 위한 절약챌린지 및 가치소비추천 어플리케이션
 
 <br>
