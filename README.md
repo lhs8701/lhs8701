@@ -1,13 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=200&section=header&text=HANSOL's%20Github&fontSize=40)
  
-     
-         
+    
+
 <div align=center> 
 <h3>📌Github Status📌</h3> 
    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhs8701&show_icons=true&theme=dark) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhs8701&count_private=true&show_icons=true&theme=dark) 
   <br>
   <br>
+  <br>
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flhs8701%2Fhit-counter&count_bg=%232B77F6&title_bg=%23555555&icon=ipfs.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  <br><br>
 </div>
 
 
@@ -72,5 +75,7 @@
 <br>
 
 </div>
+
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=ffffff,100:E1F1FF&height=150&section=footer)
