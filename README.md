@@ -2,7 +2,7 @@
  
       
 
-<div align=center> 
+<div align=center>   
 <h3>📌Github Status📌</h3> 
    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhs8701&count_private=true&show_icons=true&theme=dark) 
